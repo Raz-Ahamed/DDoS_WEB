@@ -1,5 +1,6 @@
 # DDoS_WEB
-This Tool only use http website jamming. 
+This Tool only use http website jamming.
+Use #linux #termux  
 apt update -y
 apt install git -y
 apt install python -y 
