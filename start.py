@@ -61,4 +61,4 @@ elif a=='3':
 	os.system('exit')
 else:
     print(red+'erro!')
-    os.system('python2 start.py')
+    os.system('python start.py')
