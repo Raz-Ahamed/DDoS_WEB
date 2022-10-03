@@ -45,7 +45,7 @@ if a=='1':
 	os.system('pip install slowloris')
 	os.system('clear')
 	print('Update successfull')
-	os.system('python2 real-start.py')
+	os.system('python real-start.py')
 elif a=='2':
     #slowloris -s 500 -p 80 192.168.1.254
 	import os
