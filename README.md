@@ -7,7 +7,7 @@
 <h3>Install Linux / Termux</h3>
 <p>apt update -y</p>
 <p>apt install git -y</p>
-<p>apt install python -y </p>
+<p>apt install python3 -y </p>
 <p>git clone https://github.com/Raz-Ahamed/DDoS_WEB</p>
 <p>cd DDoS_WEB</p>
 <p>python3 start.py</p>
